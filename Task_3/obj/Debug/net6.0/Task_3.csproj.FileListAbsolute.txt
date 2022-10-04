@@ -1,0 +1,15 @@
+D:\Обучение gegbrains\language С#\DZ_1_Seminar_C#\Task_3\obj\Debug\net6.0\Task_3.csproj.AssemblyReference.cache
+D:\Обучение gegbrains\language С#\DZ_1_Seminar_C#\Task_3\obj\Debug\net6.0\Task_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение gegbrains\language С#\DZ_1_Seminar_C#\Task_3\obj\Debug\net6.0\Task_3.AssemblyInfoInputs.cache
+D:\Обучение gegbrains\language С#\DZ_1_Seminar_C#\Task_3\obj\Debug\net6.0\Task_3.AssemblyInfo.cs
+D:\Обучение gegbrains\language С#\DZ_1_Seminar_C#\Task_3\obj\Debug\net6.0\Task_3.csproj.CoreCompileInputs.cache
+D:\Обучение gegbrains\language С#\DZ_1_Seminar_C#\Task_3\bin\Debug\net6.0\Task_3.exe
+D:\Обучение gegbrains\language С#\DZ_1_Seminar_C#\Task_3\bin\Debug\net6.0\Task_3.deps.json
+D:\Обучение gegbrains\language С#\DZ_1_Seminar_C#\Task_3\bin\Debug\net6.0\Task_3.runtimeconfig.json
+D:\Обучение gegbrains\language С#\DZ_1_Seminar_C#\Task_3\bin\Debug\net6.0\Task_3.dll
+D:\Обучение gegbrains\language С#\DZ_1_Seminar_C#\Task_3\bin\Debug\net6.0\Task_3.pdb
+D:\Обучение gegbrains\language С#\DZ_1_Seminar_C#\Task_3\obj\Debug\net6.0\Task_3.dll
+D:\Обучение gegbrains\language С#\DZ_1_Seminar_C#\Task_3\obj\Debug\net6.0\refint\Task_3.dll
+D:\Обучение gegbrains\language С#\DZ_1_Seminar_C#\Task_3\obj\Debug\net6.0\Task_3.pdb
+D:\Обучение gegbrains\language С#\DZ_1_Seminar_C#\Task_3\obj\Debug\net6.0\Task_3.genruntimeconfig.cache
+D:\Обучение gegbrains\language С#\DZ_1_Seminar_C#\Task_3\obj\Debug\net6.0\ref\Task_3.dll
